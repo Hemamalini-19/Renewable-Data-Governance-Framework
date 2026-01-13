@@ -7,5 +7,4 @@ This project demonstrates a foundational Data Governance framework designed for 
 2. **[Quality Standards](./quality_standards.md):** Establishes validity and completeness rules to ensure data trust.
 3. **[Governance Process](./governance_process.png):** (Insert your image here) A workflow for data stewardship and issue remediation.
 
-## Objective
-To support RWE’s mission of managing data with integrity and purpose as the company expands its data strategy in 2026.
+
